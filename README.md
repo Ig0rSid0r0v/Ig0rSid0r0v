@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+&weight=900&size=26&pause=2000&color=31B4F7&background=01010003&center=true&width=435&lines=Bioinformatican%2C+biologist" alt="Typing SVG" /></a>
 
-> <img src="https://media1.tenor.com/m/hkPuIqfQK-sAAAAd/pococado-бомба.gif" width="50"> </br>
+> <img src="https://github.com/Ig0rSid0r0v/Ig0rSid0r0v/blob/main/cat-cats.gif?raw=true" width="160"> </br>
 > Studying сomputational Biology 
 
 ### I am:
