@@ -1,4 +1,4 @@
-<img src="https://github.com/Ig0rSid0r0v/Ig0rSid0r0v/blob/main/12.jpg?raw=true">
+
 
 [![Telegram](https://img.shields.io/badge/Telegram--brightgreen?style=social&logo=Telegram)](https://t.me/BioChemExam100)
 
