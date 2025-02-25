@@ -31,4 +31,4 @@ _________________________
 I have completed several courses and built projects based on them. Here are some highlights:
 
 - **NGS Data Analysis (Bash)** (Intermediate level) ➡️  
-   **SARS-Covid Genomic Analysis Pipeline**  
+   <a href="https://github.com/Ig0rSid0r0v/SARS-CoV-2/tree/main">SARS-Covid Genomic Analysis Pipeline</a>
