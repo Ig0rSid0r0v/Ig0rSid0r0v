@@ -30,22 +30,5 @@ _________________________
   ## ✨ **PROJECTS NAVIGATION **✨
 I have completed several courses and built projects based on them. Here are some highlights:
 
-- **Python for Data Analysis in Science** (Beginner / Easy level) ➡️  
-  1) 🧬 **DNA to Protein Translator**  
-      
-  2) 🔬 **Make Matrix of Genetic Distances**  
-  
-  3) 🔍 **Motif Finder in DNA Sequences**  
-    
-
 - **NGS Data Analysis (Bash)** (Intermediate level) ➡️  
-  🦠 **SARS-Covid Genomic Analysis Pipeline**  
-
-
-- **Statistics, R, and Data Analysis** (Intermediate level) ➡️  
-  👩‍⚕️ **Adenoma Analysis Project**  
- 
-
-- **Machine Learning in Python** (Intermediate level) ➡️  
-  🧬 **ML Single Cell Classification Project**  
-
+   **SARS-Covid Genomic Analysis Pipeline**  
