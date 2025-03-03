@@ -27,7 +27,7 @@ _________________________
   </p>
 
 
-<p style="text-align: center;"> ✨PROJECTS NAVIGATION✨ </p>
+<p style="text-align: center;">✨PROJECTS NAVIGATION✨</p>
 <hr />
-<p>I have completed several courses and built projects based on them. Here are some highlights:</p>
-<p>NGS Data Analysis (Bash)** (Intermediate level) ➡️ <a href="https://github.com/Ig0rSid0r0v/SARS-CoV-2/tree/main">SARS-Covid Genomic Analysis Pipeline</a></p>
+<p style="text-align: center;">I have completed several courses and built projects based on them. Here are some highlights:</p>
+<p style="text-align: center;">NGS Data Analysis (Bash)** (Intermediate level) ➡️ <a href="https://github.com/Ig0rSid0r0v/SARS-CoV-2/tree/main">SARS-Covid Genomic Analysis Pipeline</a></p>
