@@ -25,9 +25,8 @@ _________________________
   <img alt="Num" src =https://camo.githubusercontent.com/dfba2a5ec89e3df8642ef5cccbf01ea8f597476812f0823be491b11c34e1c990/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465 /> 
   <img alt="ardi" src=https://camo.githubusercontent.com/f26ecafc87e3d212f9be5117df3d5be24d75ea9572b623eef9628bdccd1146d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465 /> 
   </p>
-
+<hr />
 
 <p style="text-align: center;">✨PROJECTS NAVIGATION✨</p>
-<hr />
 <p style="text-align: center;">I have completed several courses and built projects based on them. Here are some highlights:</p>
 <p style="text-align: center;">NGS Data Analysis (Bash)** (Intermediate level) ➡️ <a href="https://github.com/Ig0rSid0r0v/SARS-CoV-2/tree/main">SARS-Covid Genomic Analysis Pipeline</a></p>
